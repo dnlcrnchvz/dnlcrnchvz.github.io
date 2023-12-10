@@ -15,18 +15,18 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/af1468cd-f69b-4f0a-9b3d-0e912603dca7)
-)
+![Experiencia](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/907b9b25-c73e-474a-82f6-fb3f7f30fad1)
+
 
 Proyectos:
 
-![Proyectos](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/30dd48b1-854c-4f51-9402-ad92f69ca7a0)
-)
+![Proyectos](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/717e345f-d1d7-430a-be66-579c5c9aa10c)
+
 
 Testimonios:
 
-![Testimonios](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/41686f32-4a87-4a4e-9601-2c2b90b87ad5)
-)
+![Testimonios](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/a8f4c09a-6e5d-475d-8fb6-447881197767)
+
 
 Contacto:
 
