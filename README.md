@@ -10,23 +10,28 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/8904d6a7-cf07-4c4c-9c7e-a8925f41ac23)
+
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/af1468cd-f69b-4f0a-9b3d-0e912603dca7)
+)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/30dd48b1-854c-4f51-9402-ad92f69ca7a0)
+)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/41686f32-4a87-4a4e-9601-2c2b90b87ad5)
+)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/8a15a542-d869-404b-ab2c-ebdc077de611)
+)
 
 ## Tecnologías
 
