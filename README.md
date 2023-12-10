@@ -30,8 +30,8 @@ Testimonios:
 
 Contacto:
 
-![Contacto](![image](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/8a15a542-d869-404b-ab2c-ebdc077de611)
-)
+![Contacto](https://github.com/dnlcrnchvz/dnlcrnchvz.github.io/assets/137026562/f3a7ce53-61b2-41dd-916b-4d76b65aa24d)
+
 
 ## Tecnologías
 
